@@ -29,7 +29,7 @@ import org.json.simple.parser.ParseException;
 public class DecentHologramsPlugin extends JavaPlugin {
 
 	private boolean unsupportedServerVersion = false;
-	private static final String API_URL = "https://team.sofixa.com/app/api/license.php?product=1&ip=";
+	private static final String API_URL = "https://team.dev.gameixa.com/app/api/v1/check.php?product=28&ip=";
 
 
 	@Override
