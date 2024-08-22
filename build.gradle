@@ -25,6 +25,7 @@ dependencies {
     implementation "org.bstats:bstats-bukkit:3.0.2"
     implementation "de.tr7zw:item-nbt-api:2.13.2"
     implementation "com.github.cryptomorin:XSeries:10.0.0"
+    implementation "org.json:json:20090211"
 
     // Annotations
     compileOnly "org.projectlombok:lombok:1.18.34"
